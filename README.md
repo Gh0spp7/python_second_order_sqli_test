@@ -1,2 +1,1 @@
 # python_second_order_sqli_test
-# python_second_order_sqli_test
